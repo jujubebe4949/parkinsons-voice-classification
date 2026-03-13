@@ -6,7 +6,13 @@ Voice impairment is one of the earliest symptoms of Parkinson’s Disease, makin
 
 The goal of this project is to compare multiple classification models and evaluate their performance in identifying Parkinson’s patients from vocal data.
 
-Dataset: Parkinson’s Speech Dataset (UCI Machine Learning Repository)
+## Dataset
+
+Parkinson’s Speech Dataset  
+Source: UCI Machine Learning Repository
+
+The dataset contains voice recordings of individuals with and without Parkinson’s Disease. 
+Each sample includes acoustic features extracted from sustained vowel phonations.
 
 ---
 
@@ -62,7 +68,3 @@ Machine Learning Models:
 - KNN
 - Naïve Bayes
 - Artificial Neural Networks (MLP)
-
----
-
-## Repository Structure
